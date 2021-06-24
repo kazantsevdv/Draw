@@ -35,7 +35,7 @@ class GenerateTrack(val x: Int, val y: Int) {
     }
 
     companion object {
-        private val numberpoint = 5
+        private val numberpoint = 4
     }
 
     class Point(val x: Int, val y: Int)
